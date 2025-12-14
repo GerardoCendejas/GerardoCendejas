@@ -51,13 +51,13 @@
 <h2 align="center"> Work stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GerardoCendejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoCendejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/GerardoCendejas/GerardoCendejas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
