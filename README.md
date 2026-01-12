@@ -46,16 +46,10 @@
 
 </div>
 
-<br/>
-
-<h2 align="center"> Work stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GerardoCendejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoCendejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="languages" />
-
-<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoCendejas&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GerardoCendejas/GerardoCendejas/output/github-contribution-grid-snake-dark.svg">
