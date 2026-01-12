@@ -3,10 +3,6 @@
 <h1> Gerardo Cendejas Mendoza </h1>
 <h3>🧬 PhD Student in Computational Biology @ Cornell University</h3>
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/GerardoCendejas?style=flat-square&logo=github&color=7aa2f7&label=Stars" alt="Stars" />
-</div>
-
 <a href="https://www.linkedin.com/in/gerardo-cendejas-mendoza-629726226">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
