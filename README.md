@@ -50,6 +50,18 @@
 
 </div>
 
+<h2 align="center"> 📊 My GitHub Stats </h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GerardoCendejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="150" alt="stats" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoCendejas&theme=tokyonight&bg_color=00000000&hide_border=true" height="300" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GerardoCendejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoCendejas&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
