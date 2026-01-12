@@ -46,6 +46,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GerardoCendejas&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoCendejas&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
