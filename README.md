@@ -58,11 +58,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GerardoCendejas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GerardoCendejas&theme=tokyonight&bg_color=00000000&hide_border=true" width="100%" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GerardoCendejas/GerardoCendejas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GerardoCendejas/GerardoCendejas/output/github-contribution-grid-snake.svg">
