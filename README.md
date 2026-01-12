@@ -47,7 +47,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GerardoCendejas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/github/stars/GerardoCendejas?style=flat-square&logo=github&color=7aa2f7&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/GerardoCendejas?style=flat-square&logo=git&color=bb9af7&label=Commits" alt="Commits" />
+  <img src="https://img.shields.io/github/issues-pr-closed/GerardoCendejas?style=flat-square&logo=github-pull-requests&color=7dcfff&label=PRs%20Closed" alt="PRs" />
 </div>
 
 
