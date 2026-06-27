@@ -9,6 +9,9 @@
 <a href="mailto:gc597@cornell.edu">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://gerardocendejas.github.io/">
+  <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
 
 <br/><br/>
 
